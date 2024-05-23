@@ -4,7 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriickmoreeira&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriickmoreeira&hide_progress=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eriickmoreeira)](https://github.com/eriickmoreeira/github-readme-stats)
 
 ### Tecnologias 
 <div style="display: inline_block"><br/>
