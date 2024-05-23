@@ -1,4 +1,5 @@
-### Hello, my name is Erick Moreira. I have been a QA since 2014, working with test automation using Java, TestNG, Selenium, among others. I am an enthusiast of backend development with Java and Spring Boot. 🤙
+### Hello, my name is Erick Moreira. 
+I have been a QA since 2014, working with test automation using Java, TestNG, Selenium, among others. I am an enthusiast of backend development with Java and Spring Boot. 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriickmoreeira/)
 
