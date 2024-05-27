@@ -1,7 +1,14 @@
-### Hello, my name is Erick Moreira. 
-I have been a QA since 2014, working with test automation using Java, TestNG, Selenium, among others. I am an enthusiast of backend development with Java and Spring Boot. 🤙
+<h2 align="left">About me</h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriickmoreeira/)
+###
+
+<p align="left">Hello, my name is Erick Moreira.<br>I have been a QA since 2014, working with test automation using Java, TestNG, Selenium, among others. I am an enthusiast of backend development with Java and Spring Boot. 🤙</p>
+
+###
+
+<h2 align="left">Stats</h2>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eriickmoreeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -11,15 +18,32 @@ I have been a QA since 2014, working with test automation using Java, TestNG, Se
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">Techs</h2>
 
 ###
 
-### Tecnologias 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/eriickmoreeira/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
