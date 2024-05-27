@@ -3,9 +3,17 @@ I have been a QA since 2014, working with test automation using Java, TestNG, Se
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eriickmoreeira/)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eriickmoreeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eriickmoreeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=eriickmoreeira&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriickmoreeira&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eriickmoreeira&hide_progress=true&theme=dark)
+###
+
+<h2 align="left">Stats</h2>
+
+###
 
 ### Tecnologias 
 <div style="display: inline_block"><br/>
