@@ -11,7 +11,7 @@
 <h2 align="left">Stats</h2>
 
 <div align="center">
-  <img src="./metrics.svg" alt="GitHub Metrics" />
+  <img src="![Metrics](./.github-metrics.svg)" alt="GitHub Metrics" />
 </div>
 
 ---
