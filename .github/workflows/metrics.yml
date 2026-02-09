@@ -16,3 +16,23 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ErickMoreira
+          # ===== REPOSITÓRIOS (DICA EXTRA APLICADA) =====
+          plugin_repositories: yes
+          repositories_forks: yes
+          repositories_affiliations: owner
+          repositories_skipped: ""
+
+          # ===== LINGUAGENS =====
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_details: bytes-size, percentage
+
+          # ===== CONTRIBUIÇÕES =====
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+
+          # ===== OUTPUT =====
+          filename: github-metrics.svg
